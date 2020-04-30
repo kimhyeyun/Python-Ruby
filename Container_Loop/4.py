@@ -4,5 +4,5 @@ for member in members:
     if member==input_id:
         print("Hello!, "+member)
         import sys
-        sys.exit()
+        sys.exit() #종료
 print('who are you?')
